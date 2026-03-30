@@ -208,7 +208,7 @@ I'm an **International Finance professional** and **entrepreneur** operating at 
  
 <div align="center">
   <br/>
-  <a href="mailto:ballakh727@gmail.com">
+  <a href="mailto:khaledkhyoucbe@gmail.com">
     <img src="https://img.shields.io/badge/📩_Open_for_collaboration_&_consulting-58A6FF?style=for-the-badge&labelColor=0D1117"/>
   </a>
 </div>
